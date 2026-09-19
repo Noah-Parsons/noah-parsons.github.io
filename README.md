@@ -1,16 +1,21 @@
-## Hi there 👋
+# noah-parsons.github.io
 
-<!--
-**Noah-Parsons/Noah-Parsons** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Essays and criticism. Published at https://noah-parsons.github.io
 
-Here are some ideas to get you started:
+Each piece is a PDF in the repository root, linked from `index.html`.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Contents
+
+- **Abstracted Atrocities: How Burgess and Klimov Filtered Violence in
+  Opposite Directions** (19 September 2026) — on *A Clockwork Orange*,
+  *Come and See*, and two opposite methods of putting distance between
+  an audience and an atrocity.
+
+## Elsewhere
+
+- ORCID: https://orcid.org/0009-0000-7224-6040
+- MechanicsDSL: https://github.com/MechanicsDSL/mechanicsdsl
+
+## Licence
+
+Written work is licensed CC BY 4.0. See `LICENSE`.
