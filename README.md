@@ -1,4 +1,4 @@
-# noah-parsons.github.io
+# noah-parsons.github.io 
 
 Essays and criticism. Published at https://noah-parsons.github.io
 
