@@ -7,10 +7,9 @@ Each piece is a PDF in the repository root, linked from `index.html`.
 ## Contents
 
 - **Abstracted Atrocities: How Burgess and Klimov Filtered Violence in
-  Opposite Directions** (19 September 2026). On *A Clockwork Orange*,
+  Opposite Directions**. On *A Clockwork Orange*,
   *Come and See*, and two opposite methods of putting distance between
   an audience and an atrocity.
-- **Susceptibility as Evidence: How Orwell Reviewed Mein Kampf** (Under revision; revised copy coming soon)
 
 ## Elsewhere
 
